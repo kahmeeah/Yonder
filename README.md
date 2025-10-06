@@ -1,4 +1,4 @@
-![Web App CI/CD](https://github.com/software-students-spring2025/5-final-dockstars2-0/actions/workflows/web-app.yml/badge.svg?branch=main)  ![Mongo CI/CD](https://github.com/software-students-spring2025/5-final-dockstars2-0/actions/workflows/mongo.yml/badge.svg?branch=main)
+![Web App CI/CD](https://github.com/kahmeeah/Yonder/actions/workflows/web-app.yml/badge.svg?branch=main)  ![Mongo CI/CD](https://github.com/kahmeeah/Yonder/actions/workflows/mongo.yml/badge.svg?branch=main)
 
 # Yonder
 
@@ -42,7 +42,7 @@ Install the following software on your machine:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/software-students-spring2025/5-final-dockstars2-0.git
+git clone https://github.com/kahmeeah/Yonder.git
 cd 5-final-dockstars2-0
 ```
 
